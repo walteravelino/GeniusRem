@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/walteravelino/Projetos.svg?branch=master)](https://travis-ci.com/walteravelino/Projetos)
 
-<a href='https://play.google.com/store/apps/details?id=com.smc.genius&hl=pt_BR&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponível no Google Play' size='50' src='https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.smc.genius&hl=pt_BR&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponível no Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png' width="200"/></a>
 
 <img src = "https://github.com/walteravelino/Posts/blob/master/images/mapp1.png">
 
