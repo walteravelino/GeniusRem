@@ -1,5 +1,4 @@
 language: dart
 dart_task:
-- test: --exclude-tags no-xvfb
-- test: --tags no-xvfb
-  xvfb: false
+- test: --platform vm
+- test: --platform chrome
