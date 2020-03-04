@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/walteravelino/Projetos.svg?branch=master)](https://travis-ci.com/walteravelino/Projetos)
 <img src = "https://img.shields.io/github/languages/top/walteravelino/flutter_genius">
+<a href="https://github.com/walteravelino/Projetos/blob/master/LICENSE"><img src = "https://img.shields.io/github/license/walteravelino/Projetos"></a>
 
 <a href='https://play.google.com/store/apps/details?id=com.smc.genius&hl=pt_BR&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponível no Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/pt-br_badge_web_generic.png' width="150"/></a>
 
