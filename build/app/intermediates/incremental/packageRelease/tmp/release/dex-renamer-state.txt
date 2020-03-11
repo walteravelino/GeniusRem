@@ -1,0 +1,4 @@
+#Wed Mar 11 07:52:07 BRT 2020
+base.0=/Users/walteravelino/GitHub/flutter_genius/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
